@@ -37,6 +37,8 @@ its first knuckle. However, for the thumb finger, based on calculating the right
 X axis value.
 This function could also be used in treatment of Osteoarthritis which requiers opening and closing hands with
 specific timing.
+
+
 ![image](https://github.com/Yazdan-Ghanavati/Hand-Tracking-Module/assets/137007531/375a49fd-822d-430a-ae3d-888d3668b64d)
 
 ![Screenshot (78)](https://github.com/Yazdan-Ghanavati/Hand-Tracking-Module/assets/137007531/646e3f27-a20d-4b93-968d-c2218b4adf5b)
